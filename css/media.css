@@ -1,0 +1,49 @@
+@media screen and  (max-width: 980px){
+	.user_icon input, .email_icon input, .phone_icon input{
+  width: 80%;
+margin-top: 5px;}
+button{
+	width: 80%;
+	margin-top: 10px;
+	margin-bottom: 75px;
+} 
+}
+@media screen and  (max-width: 680px) {
+.main-content .container{
+  padding:7% 0 45%;
+}
+    .main-content p{
+    	font-size: 13px;
+    }
+.user_icon input, .email_icon input, .phone_icon input{
+  width: 80%;
+margin-top: 5px;}
+.main-pic{
+	    top: 66%;
+  width: 80%;
+  left: 10%;
+  bottom: -40px;
+  margin-left: 0;
+} 
+button{
+	width: 80%;
+	margin-top: 10px;
+}
+.client{
+	padding-bottom: 0px;
+}
+.item{
+  width: 100%;
+}  
+.item:nth-child(2n){
+    padding-left: 83px;
+}
+.block{
+  background: #ffffff;
+  width: 100%;
+  position: relative;
+}
+.block:nth-child(2n+1)
+ {margin-right: 0px; }
+
+}
